@@ -1,3 +1,4 @@
+<<<<<<< 
 # Weather Widget
 Hi! This is a very simple weather widget application, made using HTML, CSS, JavaScript, and an API provided by https://openweathermap.org
 
@@ -15,3 +16,6 @@ This repository is setup through **GitHubPages** so a demonstration of this appl
 * style.css
 * script.js
 * README.md
+=======
+# Weather App
+>>>>>>> 1eabd08bc4053faeb19c9a6c8e9b3f2a223eab8d
